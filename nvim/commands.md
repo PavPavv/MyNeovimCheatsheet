@@ -1,4 +1,4 @@
-## Basic, most common commands
+## Basic, most common commands for neovim
 
 ### Modes
 - **Esc** - back to command mode
