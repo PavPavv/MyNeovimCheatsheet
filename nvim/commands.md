@@ -55,3 +55,11 @@
   - **Ctrl+w+<** - decrease the width of the current window by one column
 
 - **Ctrl+\\+Cntr+n** switch from termonal to another screen in neovim
+
+### Manage files
+
+Create file in current directory
+
+```bash
+:e %:h/file_name.txt
+```
