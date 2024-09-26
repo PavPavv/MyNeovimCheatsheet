@@ -47,14 +47,16 @@
   - **Ctrl+w+l** - move right
   - **Ctrl+w+k** - move top
   - **Ctrl+w+j** - move bottom
-- Change size of current screen:
 
+- Change size of current screen:
   - **Ctrl+w++** - increase the height of the current window by one line
   - **Ctrl+w+-** - decrease the height of the current window by one line
   - **Ctrl+w+>** - increase the width of the current window by one column
   - **Ctrl+w+<** - decrease the width of the current window by one column
 
-- **Ctrl+\\+Cntr+n** switch from termonal to another screen in neovim
+- Switch from terminal to another screen in neovim
+
+  - **Ctrl+\\+Cntr+n** switch from terminal to another screen in neovim
 
 ### Manage files
 
